@@ -1,0 +1,2 @@
+class OperationDoesNotExistError(Exception):
+    pass
