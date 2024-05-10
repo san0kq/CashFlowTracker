@@ -1,2 +1,2 @@
-DB_NAME = 'db'
-DB_EXTENSION = '.json'
+DB_NAME = "db"
+DB_EXTENSION = ".json"

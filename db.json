@@ -1,38 +1,20 @@
 {
-  "a2e48ece-3dd6-4e57-a015-47170cc27719": {
-    "date": "2024-05-07T16:38:20.419911",
-    "category": "\u041f\u043e\u0441\u0442\u0443\u043f\u043b\u0435\u043d\u0438\u0435",
-    "amount": 12,
-    "description": "\u0417\u0430\u0440\u043f\u043b\u0430\u0442\u0430"
-  },
-  "076dfe63-cfae-4f70-88a1-2ed3e2836f03": {
-    "date": "2024-05-07T16:41:59.614468",
+  "08df8fe7-1826-487c-9005-cb0a42f82fb3": {
+    "date": "2024-05-10T16:14:30.612302",
     "category": "income",
-    "amount": 33,
-    "description": "koko"
+    "amount": 500.0,
+    "description": "fsfsafs"
   },
-  "dcc0c10a-3309-4f13-9abd-145893a390bc": {
-    "date": "2024-05-07T17:50:37.612653",
+  "3f57d220-0464-470b-aaa2-cfc89c6cac1e": {
+    "date": "2024-05-10T18:29:57.186721",
     "category": "income",
-    "amount": 33,
-    "description": "Sellery"
+    "amount": 23231.0,
+    "description": "fdsffs"
   },
-  "6f7cda49-107f-4054-8330-d6bd298d60ac": {
-    "date": "2024-05-07T17:50:38.232571",
-    "category": "income",
-    "amount": 33,
-    "description": "Sellery"
-  },
-  "4b6d4733-4a37-4156-a565-e2f05443bac3": {
-    "date": "2024-05-07T17:50:39.741989",
-    "category": "income",
-    "amount": 33,
-    "description": "Sellery"
-  },
-  "f45d8f65-6253-498d-a6f3-6f11fe97d26d": {
-    "date": "2024-05-07T17:50:40.283370",
-    "category": "income",
-    "amount": 33,
-    "description": "Sellery"
+  "278984ba-8df7-4b00-ac93-49efa7e9d910": {
+    "date": "2024-05-10T18:30:05.168236",
+    "category": "expense",
+    "amount": 100.0,
+    "description": "test"
   }
 }
